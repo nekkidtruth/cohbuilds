@@ -31,6 +31,10 @@ sudo apt update
 sudo apt install code
 ```
 
+##Install Entity Framework Tool
+```bash
+dotnet tool install --global dotnet-ef --version 3.0.0-preview4.19216.3
+```
 ## Test Dotnet Core Install
 
 ```bash
