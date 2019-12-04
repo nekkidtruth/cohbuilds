@@ -12,6 +12,12 @@ The back end will likely be DotNet Core 3.0 WebApi.
 To be added later.
 ```
 
+## Testing
+```bash
+make clean test
+```
+Requires docker. Work in progress.
+
 ## Usage
 
 ```python
